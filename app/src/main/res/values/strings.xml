@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="cPassword">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="newAccount">New Account</string>
+    <string name="open">Drawer Opened</string>
+    <string name="close">Drawer Closed</string>
+    <string name="welcome">Welcome Back: </string>
+
+    <string name="home">Home</string>
+    <string name="request">Service Request</string>
+    <string name="logs">Services History</string>
+    <string name="login">Login</string>
+    <string name="contact">Contact Us</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="others">  Others</string>
+    <string name="about">About Us</string>
+    <string name="policy">Privacy Policy</string>
+
+
+    <string name="nearBy">Near By</string>
+    <string name="bookmark">Bookmarks</string>
+    <string name="checkIns">Check Ins</string>
+    <string name="search">Search</string>
+    <string name="searchHint">Search For Shops</string>
+
+    <string name="makeRequest">Make Request</string>
+    <string name="welcomeText">Welcome! Our Service is best of its kind. Start using it today</string>
+    <string name="text">Thanks For using our service. We promise to always meet your requirement.</string>
+
+    <string name="lorem">On Demand Car Wash provide quick and fast car washing service and it is
+        best of its kind! Our goal is to always meet your requrement anyday any time.
+        Welcome to using Our Service.
+    </string>
+    <string name="service">Services:</string>
+    <string name="address">Address:</string>
+    <string name="direction">Direction</string>
+    <string name="call">Call</string>
+    <string name="now">Mechanics Near You:</string>
+    <string name="empty">Hoops! No Record Found</string>
+    <string name="ourPolicy">
+        Our Policy is so user friendly and it so convinient for all our customers
+    </string>
+    <string name="aboutUs">Tour Guide System is a final year project carried out by MAYOWA
+        under the supervision of MRS OYELOWO in Android Platform
+        using Java Programming Language</string>
+
+
+    <string name="ph_test">Country: %1$s </string>
+
+
+    <string name="postPro">Post Item</string>
+    <string name="properties">Posted Items</string>
+
+    <string name="create">Create Account</string>
+    <string name="uploads">My Uploads</string>
+    <string name="upload">Upload Styles</string>
+    <string name="logout">Logout</string>
+    <string name="post">%s Item at %s</string>
+    <string name="shop">Shop Name: %s</string>
+    <string name="desc">Description: %s</string>
+
+
+    <string name="intro">
+        Tour Guide gives you a quick information about tour centers in the society.
+    </string>
+
+
+    <string name="aboutOlumo">
+        Any visit to the city of Abeokuta would be incomplete without stopping by at the “fortress of Abeokuta”; Olumo Rock. It is no surprise that this rock is located in Abeokuta, as the name “Abeokuta” itself means “under the rock”. Olumo Rock has long served as a rock of offense and a fortress for the people of Egba Land, since the 19th century.  At Olumo Rock, you would be treated to attractions like natural tunnels, unusual trees, natural cantilevers, gardens on the rock, broken pathways, monuments of the belief system of the rock’s primeval settlers, three escalators at the characteristic height of the rock as well as an aerial and atmospheric view of the antique city of Abeokuta, from the apex of the rock. You don’t want to miss these attractions, do you?
+        Olumo Rock, which stands at a height of 137 meters above sea level, is a bit easier to climb than the Zuma Rock which stands at a height of 725 meters. There are in fact man-made stairs carved into the rock, making the climb fairly easy even for less fit visitors to this tourist location. There is also the availability of an elevator, in the event that you want to take the easy way up to the apex of the rock, albeit it comes at a cost. From the apex of the rock, you would be afforded a panoramic view of other tourists’ locations in Abeokuta like First Church of Nigeria, the Central Mosque, the River Ogu as well as the family house of the late Moshood Abiola. Hotels in Abeokuta within minutes’ drive from the rock include Gateway Hotel and Olumo Guest House.
+        How to get to Olumo Rock Abeokuta is just about 1-hour drive from the city of Lagos. Lagos is also home to the closest airport to Abeokuta which is the Murtala Muhammed Airport.  From the Lagos Airport, you would get a taxi that would take you to a park, where you can get either a taxi or a bus to Abeokuta. At Abeokuta city center, you can get a taxi straight to Olumo Rock. Also, from Sango Ota, Ogun State, you can get a taxi to Olumo Rock. The distance between Sango Ota and Olumo Rock is about 2 hours at an average cost of N2000.
+
+        Things to do at Olumo Rock \n \n
+        Tourists who visit the Olumo Rock have several interesting activities they can engage themselves in, as a tour guide, who is versed in the history of the rock and the culture of the people, would be available to show you around the interesting places at this tourist location. The presence of the tour guide would make your adventure an unforgettable one, as almost every curl and turn at the rock tells a story. Thus, when you visit Olumo Rock start your adventure by climbing up the man-made stairs carved into the rock. While the use of the word ‘man-made’ may make it sound a bit easy, it leaves many breathless and ready to take a break to rest on the benches under the trees growing from the rock and enjoy some clean breeze.
+        Also, climb the uneven sized rocks on the narrow corridors leading to the peak of the rock. While climbing up the rock enjoy the sight of the cowrie studded statues, the carvings on the rock and bid greetings to the 131-year old priestesses (Iya Orisa) living under the rock. Do not forget to visit the ancient Itoku market which lies outside the Olumo Rock. This tye-and-dye (Adire) market is a commercial hub located around the Olumo Rock. It would be an interesting sight to see how the local artisans and traders dicker over price with customers, who are always looking to buy goods at the lowest price.
+        Also, take a tour of the new museum and relax at the recreational park, which is at the foot of the rock. Serenade your senses with nature’s beautiful scenery by going to the taking a peek at the Ogun River flowing down the rock. Let the water caress your skin with the soft therapy of Mother Nature. Maintain peace between the warring factions in the abdominal enclave by visiting the fast food restaurant located at the base of Olumo Rock.
+
+        How Much A Visit To Olumo Rock Will Cost \n \n
+        The entrance fee to Olumo Rock is 700 Naira, which is for those who would be climbing the stairs while those would be using the elevator would pay 2000 Naira. There’s also a camera fee of 200 Naira and a parking fee of 200 Naira.
+
+        What is the Best Time To Visit Olumo Rock? \n\n
+        The month of March is always a great time to pay a visit to the Olumo Rock, as it is the dry season around the environment of the Rock. Visiting Olumo Rock in March would also afford you the opportunity of enjoying the razzmatazz of the Lisabi and Olumo Festivals, which both climax at the Olumo Rock.
+    </string>
+
+    <string name="olumoHistory">
+        The name Olumo means “troubles and sufferings are all over”. The history of the rock dates back to the 19th century Oyo Empire when Abeokuta was inhabited by the Egba people who found refuge at the Olumo rock during inter-tribal wars. The rock functioned as a tower of strength for the Egba people in their wars to defend the new settlement as well as a vantage point to monitor the enemy’s advance leading to eventual triumph in war. The rock is nature’s large monument made from indigenous materials.
+        The element of its native form is its strong point as a refuge and a hideout. Olumo Rock is the most significant representation of Egba nationalism. It is the distinctive monument linked with their heroism and freedom. Thus, Olumo rock symbolizes unity and freedom not just for the Egbas alone but for all the residents of Abeokuta. The year 2006 saw a string of remodeling being carried out at this tourist site in order to further its course as a prime tourist location in Nigeria. Thus, after the remodeling, facilities like a new museum, restaurants, water fountain, and an elevator (to ease the climbing challenge) were added.
+    </string>
+
+    <string name="olumoPhone">
+        09024097929
+    </string>
+    <string name="olumoLink">CMtmmiv739A</string>
+    <string name="olumoLat">7.2300</string>
+    <string name="olumoLong">3.4387</string>
+
+
+    <!-- OOPL-->
+    <string name="aboutOOPL">
+        The Olusegun Obasanjo Presidential Library is a library owned by Chief Olusegun Obasanjo, a former President of Nigeria. It is a historic, tourist and academic centre established as a national archive for the preservation of documents and materials used by the president during his tenure as the president of Nigeria. Wikipedia
+
+        Address: Presidential Bouleva road, Oke Mosan 20113, Abeokuta
+        Hours:
+        Closed · Opens 9AM
+        Phone: 0809 724 0000
+    </string>
+
+    <string name="OOPLHistory">
+        Conceived in 1988, the idea to establish the Olusegun Obasanjo Presidential Library remained just an idea until 10 years later when Chief Olusegun Obasanjo rode from prison to the State House as Nigeria’s second elected Executive President. He soon established the Office of Presidential Libraries (Libraries, Research and Documentation) with a stated mission to see the OOPL idea translated into reality.
+
+        On November 12, 2002, the Olusegun Obasanjo Presidential Library Foundation was incorporated as a not-for-profit organisation to advise, promote and encourage the establishment, growth and development of the Library, to coordinate its activities and provide support for its programmes. The Foundation’s Board of Trustees was charged with mobilising private sector interest and funding to construct, furnish, maintain, and protect the Library complex’s buildings and its holdings.
+
+        Abeokuta fought several wars with Dahomey, provoked by the city’s rise as a major trade hub for the
+
+        A primary concern for the establishment of a Presidential Library is first to acknowledge the contributions of, at any one time, the occupier of Nigeria’s most important political office. It is also generally acknowledged that, there is a gap in understanding the complex conditions that prevail or act upon important decisions leaders make when they occupy their positions. A Presidential library, with documents and other archival materials can avail researchers of important resources that may enable them arrive at accurate and objective analysis of their subjects.
+
+        The Olusegun Obasanjo Presidential Library was established to demonstrate and deepen democracy. One essential aspect of democracy is a developed and engaged citizenry. The Presidential Library will enhance transparency and accountability and ensure that policy choices are better understood. It will clear up the myth and misconceptions that citizens hold for the office of the President and perhaps broker a more pragmatic understanding of the events of history and the person caught in its storms. For children in schools, the benefit and value of understanding the travails of a leader cannot be underestimated.
+
+        Cross section of displays in OOPL museum
+
+        The construction of the complex presented a lot of environmental and physical challenges because of the site’s unique topographical formation. Almost 47 per cent of the site is covered with outcrops of igneous granite rock formation.
+
+        The shape and outlook of the rock formations are impressive and interesting. A plateau-like formation serves as a natural helipad. Others form hillocks that create an excellent view of the entire complex and major areas of the surrounding cityscape. The site is not all rock. A swift stream empties into a small swamp and was dammed to provide water and electricity. The dam is one of the highlights of any visit to the library complex.
+    </string>
+    <string name="ooplLink">x5Fg6C4jDtU</string>
+    <string name="OOPLLat">7.1258</string>
+    <string name="OOPLLong">3.3642</string>
+    <string name="OOPLPhone">08097240000</string>
+
+    <!-- CENTENARY-->
+    <string name="aboutCentenary">
+        The centenary hall was built by the Egba people to commemorate their one hundred years story of peaceful existence at Abeokuta after the inter-tribal wars.
+    </string>
+    <string name="centenaryHistory">
+        It was built in 1950 directly opposite the Ake palace and very near the present Abeokuta south local government.
+        Located opposite the Ake’s Palace, the Centenary Hall in Ake’s area of Abeokuta was constructed in 1950 to commemorate the one hundred years that Abeokuta had been in peace after the last inter-tribal war. The building of the Abeokuta Memorial Centenary Hall emanated from His Majesty Oba Ladapo Ademola II, KBE, The Alake of Egbaland to commemorate the Centenary (100 years) of Egba settlement in Abeokuta. This idea was wholeheartedly supported by the Egba Authority at a meeting held on Thursday, 2nd January, 1930.
+        Arrangements were put in place immediately. The foundation stone ceremony of the Hall was performed by Alayeluwa Oba Ladapo Ademola II on the 19th July, 1930 at 5pm with his assistance from the Administration Inspector of Works, Mr. E.W. Chubb and Capt. H.J Brock who was the Engineer for Egba Native Authority. The Alake, at the ceremony, exhibited to all present the Administration Bulletin of January, 1930 containing matters relating to the Hall and the list showing the names of Egba Councilors and Heads of Administration Departments during whose time the foundation stone of the Hall was laid, note written by Alayeluwa, Alake and (5) five shillings in silver coins, all of which were deposited in foundation hole before the foundation stone was laid with the following pronouncements;
+        “I declare this foundation stone well and truly laid (3 times)”
+        There was initial doubt as to whether the building could be completed by the time of the Centenary Celebrations but for the special interests shown by the Resident Capt. B.W. Macpherson, the District Officer, Mr. G.V. Evans, the Egba N.A. Engineer, Capt. H.J. Brock and Inspector of works Mr. E.W. Chubb who rest assured its completion for the formal opening in a manner worthy of the name and reputation of Abeokuta and that the celebration should be observed during the period of 10th Alake’s Coronation Anniversary coming up towards September ending.
+        The Design for the Hall was drawn by Mr. H.A. Porter, Senior Architect from Public Works Department Headquarters, Race Course Road, Lagos while on tour of Abeokuta. His sketch plan was forwarded to the PWD Headquarters, Drawing Office, Mr. Robert Charles Kotey, 2nd Class Draughtsman and a native of Accra, Gold Coast Colony (now Ghana) with the first architect Mr. T. Scott who prepared a detailed drawing for the foundation plan so that the work could go ahead. On Mr. Porter’s return from Abeokuta, all working drawings were prepared by Mr. Kotey. All half inch and full size details were then prepared by Mr. Kotey working under the direction of Mr. Porter. Mr. Kotey prepared all tracings, the lettering over the side entrance and other small details under Mr. Scott.
+        Mr. Kotey did the work splendidly (both original and tracing) and Messrs Porter and Scott were very pleased with Mr. Kotey. It was therefore placed on record the excellent services rendered by the three officers in designing and other architectural matters connected with the Hall. The Hall and courtyard occupied land area of 3,196.038 meters.
+    </string>
+    <string name="centenaryLink">sPLGyqn8c68</string>
+    <string name="centenaryLat">7.1639</string>
+    <string name="centenaryLong">3.3535</string>
+
+
+    <!-- PARK INN -->
+    <string name="aboutPark">
+        Park Inn by Radisson Abeokuta offers accommodations in Abeokuta.
+        Each room at this hotel is air conditioned and is equipped with a flat-screen TV. Enjoy a cup of tea while looking out at the pool or city. The rooms have a private bathroom fitted with a bath. Extras include slippers and free toiletries.
+        Set in a riverside town, this relaxed hotel is 5 km from Abeokuta Railway Station, an 8-minute walk from football matches at M.K.O. Abiola International Stadium and 3 km from Abeokuta Golf Club.
+        Down-to-earth rooms provide free Wi-Fi, TVs and balconies, as well as en suite bathrooms. Upgraded rooms add minifridges. Room service is available.
+        Complimentary amenities include a breakfast buffet and parking. There is also a bright restaurant, a bar, and an outdoor pool with a poolside bar, plus a fitness center.
+    </string>
+    <string name="parkLink">Mys8MNMyjdw</string>
+
+    <!-- ADIRE -->
+    <string name="aboutAdire">
+        A distinctive cultural product of women of the Egba land, Adire is an exotic fabric made in the Tie-and-Dye industry that is loved and coveted for its intricate designs as well as the process involved in making it. This market is the seen as the largest Adire market in Africa. It is also called Kampala so sometimes,the market is referred to as Kampala Market.
+        What To Bring
+        Before heading to Kemta Adire Market, here are some helpful things to take along with you:
+        Cash only as it is operated by local clothing vendors
+
+        Shopping List
+        Camera to capture the sights and experience One of the biggest commodity exported from Abeokuta, Adire, which means Tied and Dyed attracts thousands of traders and tourists alike on a daily basis who come to patronize the women traders, order batches, learn from them or simply marvel at the art involved. The market was built by the then Governor, Chief Olusegun Osoba. There are stalls sprawling the market with the fabrics of different African designs displayed.
+    </string>
+    <string name="adireLink">EUFLT2IYtyI</string>
+
+    <string name="key">AIzaSyBdfzao0oxnKqmdjWfQcygzS5uuIP18q7k</string>
+
+
+</resources>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".DetailsFragment">
+
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+
+       <com.smarteist.autoimageslider.SliderView
+           android:id="@+id/imageSlider"
+           android:layout_width="match_parent"
+           android:layout_height="@dimen/_200sdp"
+           app:sliderAnimationDuration="600"
+           app:sliderAutoCycleDirection="back_and_forth"
+           app:sliderAutoCycleEnabled="true"
+           app:sliderCircularHandlerEnabled="true"
+           app:sliderIndicatorAnimationDuration="600"
+           app:sliderIndicatorGravity="center_horizontal|bottom"
+           app:sliderIndicatorMargin="15dp"
+           app:sliderIndicatorOrientation="horizontal"
+           app:sliderIndicatorPadding="3dp"
+           app:sliderIndicatorRadius="2dp"
+           app:sliderIndicatorSelectedColor="#5A5A5A"
+           app:sliderIndicatorUnselectedColor="#FFF"
+           app:sliderScrollTimeInSec="1"
+           app:sliderStartAutoCycle="true" />
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:paddingLeft="@dimen/_16sdp"
+           android:paddingRight="@dimen/_16sdp"
+           android:paddingTop="@dimen/_10sdp"
+           android:paddingBottom="@dimen/_10sdp"
+           android:text="About"
+           android:background="@color/light"
+           android:textAppearance="@style/TextAppearance.AppCompat.Title" />
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:id="@+id/about"
+           android:paddingTop="@dimen/_10sdp"
+           android:paddingBottom="@dimen/_10sdp"
+           android:paddingLeft="@dimen/_16sdp"
+           android:paddingRight="@dimen/_16sdp"
+           android:lineSpacingMultiplier="1.5"
+           android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+           android:layout_marginBottom="@dimen/_16sdp"/>
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="vertical"
+           android:id="@+id/historyHolder"
+           android:visibility="gone">
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:paddingTop="@dimen/_10sdp"
+               android:paddingRight="@dimen/_16sdp"
+               android:paddingBottom="@dimen/_10sdp"
+               android:paddingLeft="@dimen/_16sdp"
+               android:text="History"
+               android:background="@color/light"
+               android:textAppearance="@style/TextAppearance.AppCompat.Title" />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/history"
+               android:paddingTop="@dimen/_10sdp"
+               android:paddingBottom="@dimen/_10sdp"
+               android:paddingLeft="@dimen/_16sdp"
+               android:paddingRight="@dimen/_16sdp"
+               android:lineSpacingMultiplier="1.5"
+               android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+       </LinearLayout>
+
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="vertical"
+           android:id="@+id/phoneHolder"
+           android:visibility="gone">
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:paddingTop="@dimen/_10sdp"
+               android:paddingBottom="@dimen/_10sdp"
+               android:paddingRight="@dimen/_16sdp"
+               android:paddingLeft="@dimen/_16sdp"
+               android:text="Phone Number"
+               android:background="@color/light"
+               android:textAppearance="@style/TextAppearance.AppCompat.Title" />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/phone"
+               android:paddingLeft="@dimen/_16sdp"
+               android:paddingRight="@dimen/_16sdp"
+               android:paddingTop="@dimen/_10sdp"
+               android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+
+           <com.google.android.material.button.MaterialButton
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:id="@+id/call"
+               android:text="Call"
+               style="@style/Widget.MaterialComponents.Button.TextButton"
+               android:gravity="start"
+               android:layout_margin="@dimen/_16sdp" />
+       </LinearLayout>
+
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:paddingTop="@dimen/_10sdp"
+           android:paddingBottom="@dimen/_10sdp"
+           android:paddingRight="@dimen/_16sdp"
+           android:paddingLeft="@dimen/_16sdp"
+           android:text="Location"
+           android:background="@color/light"
+           android:textAppearance="@style/TextAppearance.AppCompat.Title" />
+
+       <fragment
+           android:layout_width="match_parent"
+           android:layout_height="@dimen/_150sdp"
+           android:id="@+id/map"
+           android:name="com.google.android.gms.maps.SupportMapFragment"
+           android:layout_marginBottom="@dimen/_16sdp"/>
+
+       <com.google.android.material.button.MaterialButton
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:id="@+id/view"
+           android:text="Play Video"
+           style="@style/Widget.MaterialComponents.Button.TextButton"
+           android:layout_margin="@dimen/_16sdp" />
+   </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>
